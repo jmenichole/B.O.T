@@ -41,22 +41,22 @@ h1, h2, h3 {
 }
 
 .hero-title {
-    font-size: 4rem;
+    font-size: 5rem; /* Increased from 4rem */
     font-weight: 900;
-    margin-bottom: 1.5rem;
+    margin-bottom: 2rem; /* Increased spacing */
     color: #3C2F2F;
 }
 
 .hero-subtitle {
-    font-size: 1.5rem;
+    font-size: 1.75rem; /* Increased from 1.5rem */
     opacity: 0.8;
-    margin-bottom: 2.5rem;
+    margin-bottom: 3rem; /* Increased spacing */
 }
 
 .section-title {
-    font-size: 3rem;
+    font-size: 3.5rem; /* Increased from 3rem */
     text-align: center;
-    margin-bottom: 4rem;
+    margin-bottom: 5rem; /* Increased spacing */
     color: #3C2F2F;
 }
 
@@ -65,13 +65,13 @@ h1, h2, h3 {
    ======================================== */
 
 .container {
-    max-width: 1200px;
+    max-width: 1400px; /* Increased from 1200px */
     margin: 0 auto;
     padding: 0 2rem;
 }
 
 section {
-    padding: 5rem 0;
+    padding: 6rem 0; /* Increased from 5rem */
 }
 
 /* ========================================
@@ -81,8 +81,8 @@ section {
 .hero {
     background-color: #FFF5EC;
     text-align: center;
-    padding: 8rem 2rem;
-    min-height: 90vh;
+    padding: 10rem 2rem; /* Increased from 8rem */
+    min-height: 100vh; /* Increased from 90vh */
     display: flex;
     align-items: center;
     justify-content: center;
